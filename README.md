@@ -36,20 +36,9 @@
 
 <h2 align="center"><span>🌠Streak & Stats🌠</span></h2>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeRei067&theme=tokyonight" alt="GitHub Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeRei067&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeRei067&theme=tokyo-night)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=CodeRei067&theme=tokyonight)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeRei067&theme=nightowl" alt="GitHub Profile Summary" />
+  <img src="https://streak-stats.demolab.com?user=CodeRei067&theme=nightowl&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeRei067&theme=night-owl" alt="Activity Graph" />
 </div>
 
 <div align="center">
