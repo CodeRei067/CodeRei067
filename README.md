@@ -38,12 +38,9 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeRei067&theme=nightowl" alt="GitHub Profile Summary" />
   <img src="https://streak-stats.demolab.com?user=CodeRei067&theme=nightowl&hide_border=true" alt="Streak Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeRei067&theme=night-owl" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeRei067&theme=nightowl" alt="Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=DATA+SCIENCE+LEARNER;PYTHON+ENTHUSIAST;RPG+GAME+ENJOYER" alt="Type" />
-</div>
 
 <div align="center">
   <img src="assets/generated/footer.svg" alt="Footer" width="100%"/>
