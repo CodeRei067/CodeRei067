@@ -3,22 +3,10 @@
 </p>
 
 
-<h1 align="center"><span style="letter-spacing:0.08em;">Who's Rei here!!</span></h1>
-
-
-
-
-
-
 <h2 align="center"><span>🌠About Me🌠</span></h2>
 <p align="center" style="font-size:16px; line-height:1.8; max-width:720px;">
   Who's Rei AKA Reza here! Siswa RPL yang antusias pada web developer, data science, dan machine learning. Orpheus Symphony Profile ini memvisualisasikan progress dan skill ku.
 </p>
-
-
-
-
-
 
 
 <h2 align="center"><span>🌠Languages & Tools🌠</span></h2>
@@ -44,12 +32,6 @@
   <img src="https://img.shields.io/badge/Composer-88563B?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
-
-
-
-
-
-
 
 
 <h2 align="center"><span>🌠Streak & Stats🌠</span></h2>
