@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=CodeRei067&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeRei067&theme=tokyonight" alt="Repos Per Language" />
 </div>
 
 <div align="center">
