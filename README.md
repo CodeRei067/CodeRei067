@@ -53,9 +53,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeRei067&theme=nightowl" alt="GitHub Profile Summary" />
   <img src="https://streak-stats.demolab.com?user=CodeRei067&theme=nightowl&hide_border=true" alt="Streak Stats" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeRei067&theme=nightowl" alt="Activity Graph" />
+  <img src="https://count.getloli.com/@Hunterdii?name=Hunterdii&theme=green&darkmode=1"/>
 </div>
-
-<img src="https://count.getloli.com/@Hunterdii?name=Hunterdii&theme=green&darkmode=1">
 
 <div align="center">
   <img src="assets/generated/footer.svg" alt="Footer" width="100%"/>
