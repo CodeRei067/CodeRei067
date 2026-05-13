@@ -2,6 +2,7 @@
   <img src="assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%"/>
 </p>
 
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" />
 
 <h2 align="center"><span>🌠About Me🌠</span></h2>
 <p align="center" style="font-size:16px; line-height:1.8; max-width:720px;">
@@ -41,6 +42,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeRei067&theme=nightowl" alt="Activity Graph" />
 </div>
 
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Data+Science+Learner;Python+Enjoyer;Building+Cool+Projects;RPG+Game+Fan)
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=CodeRei067&fontColor=ffffff)
 
 <div align="center">
   <img src="assets/generated/footer.svg" alt="Footer" width="100%"/>
