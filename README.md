@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=200&section=header&text=Reza%20Profile&fontColor=ffffff)
-
 <p align="center">
   <img src="assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%" />
 </p>
