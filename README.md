@@ -2,15 +2,15 @@
   <img src="assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%"/>
 </p>
 
-<h1 align="center"><span style="color:#BF95FF; letter-spacing:0.08em;">Who's Rei here!!</span></h1>
+<h1 align="center"><span style="letter-spacing:0.08em;">🌠Who's Rei here!!🌠</span></h1>
 <p align="center"><strong style="color:#7F7FD5;">Web Developer • Data Science • Machine Learning</strong></p>
 
-<h2 align="center"><span style="color: #ff0000;">About Me</span></h2>
+<h2 align="center"><span>🌠About Me🌠</span></h2>
 <p align="center" style="font-size:16px; line-height:1.8; max-width:720px;">
   Who's Rei AKA Reza here! Siswa RPL yang antusias pada web developer, data science, dan machine learning. Orpheus Symphony Profile ini memvisualisasikan progress dan skill ku.
 </p>
 
-<h2 align="center"><span style="color: #ffe600;">Languages & Tools</span></h2>
+<h2 align="center"><span>🌠Languages & Tools🌠</span></h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -34,21 +34,13 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-<h2 align="center"><span style="color: #11ff00;">Streak & Stats</span></h2>
+<h2 align="center"><span>🌠Streak & Stats🌠</span></h2>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeRei067&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CodeRei067&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeRei067&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top:12px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeRei067&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
