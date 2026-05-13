@@ -5,16 +5,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h2 align="center">
-<span>
-
-<h2> <a href="https://github.com/Hunterdii">
+<span><a href="https://github.com/Hunterdii">
+    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>About Me<a href="https://github.com/Hunterdii">
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
-
-    About Me 
-
-<h2><a href="https://github.com/Hunterdii">
-    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
-
 </span></h2>
 <p align="center" style="font-size:16px; line-height:1.8; max-width:720px;">
   Who's Rei AKA Reza here! Siswa RPL yang antusias pada web developer, data science, dan machine learning. Orpheus Symphony Profile ini memvisualisasikan progress dan skill ku.
@@ -22,16 +15,9 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align="center"><span>
-
-<h2>  <a href="https://github.com/Hunterdii">
+<h2 align="center"><span><a href="https://github.com/Hunterdii">
+    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>Languages & Tools<a href="https://github.com/Hunterdii">
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
-
-Languages & Tools
-
-<h2>  <a href="https://github.com/Hunterdii">
-    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
-
 </span></h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -58,15 +44,8 @@ Languages & Tools
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align="center">
-<span>
-
-<h2>  <a href="https://github.com/Hunterdii">
-    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
-
-Streak & Stats
-
-<h2>  <a href="https://github.com/Hunterdii">
+<h2 align="center"><span><a href="https://github.com/Hunterdii">
+    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>Streak & Stats<a href="https://github.com/Hunterdii">
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
 
 </span></h2>
