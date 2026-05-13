@@ -3,10 +3,9 @@
 </p>
 
 
+<h1 align="center"><span style="letter-spacing:0.08em;">Who's Rei here!!</span></h1>
 
 
-<h1 align="center"><span style="letter-spacing:0.08em;">🌠Who's Rei here!!🌠</span></h1>
-<p align="center"><strong style="color:#7F7FD5;">Web Developer • Data Science • Machine Learning</strong></p>
 
 
 
@@ -15,6 +14,9 @@
 <p align="center" style="font-size:16px; line-height:1.8; max-width:720px;">
   Who's Rei AKA Reza here! Siswa RPL yang antusias pada web developer, data science, dan machine learning. Orpheus Symphony Profile ini memvisualisasikan progress dan skill ku.
 </p>
+
+
+
 
 
 
@@ -46,6 +48,10 @@
 
 
 
+
+
+
+
 <h2 align="center"><span>🌠Streak & Stats🌠</span></h2>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeRei067&theme=tokyonight" alt="GitHub Profile Summary" />
@@ -53,6 +59,22 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CodeRei067&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<div align="center">
+
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Data+Science+Learner;Python+Enthusiast;RPG+Game+Enjoyer)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeRei067&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=CodeRei067&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeRei067&layout=compact)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeRei067&theme=tokyo-night)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=CodeRei067&theme=tokyonight)
+
 </div>
 
 <div align="center">
