@@ -39,12 +39,11 @@
 
 ## Streak & Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeRei067&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeRei067&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeRei067&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeRei067&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=CodeRei067&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
