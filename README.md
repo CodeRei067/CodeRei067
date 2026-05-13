@@ -1,18 +1,23 @@
 <p align="center">
-  <img src="assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%" />
+  <img src="assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%"/>
 </p>
 
 <div align="center">
-  <h1 style="color:#BF95FF; letter-spacing:0.08em;">Who's Rei here!!</h1>
-  <p><strong style="color:#7F7FD5;">Web Developer • Data Science • Machine Learning</strong></p>
+  <img src="https://img.shields.io/badge/Who's%20Rei%20here!!-BF95FF?style=for-the-badge&logo=github&logoColor=white" alt="Who's Rei here!!" />
+  <p><strong>Web Developer • Data Science • Machine Learning</strong></p>
+  <img src="https://img.shields.io/badge/Cosmic%20Vibes-7F7FD5?style=for-the-badge&logo=space-x&logoColor=white" alt="Cosmic Vibes" />
 </div>
 
-<h2 align="center" style="color:#8C7BFF;">About Me</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/About%20Me-8C7BFF?style=for-the-badge&logo=ghost&logoColor=white" alt="About Me" />
+</div>
 <p align="center" style="font-size:16px; line-height:1.8; max-width:720px;">
-  Who's Rei AKA Reza here! Siswa RPL yang antusias pada web developer, data science, dan machine learning. Orpheus Symphony Profile ini memvisualisasikan progress dan skill ku!.
+  Who's Rei AKA Reza here! Siswa RPL yang antusias pada web developer, data science, dan machine learning. Orpheus Symphony Profile ini memvisualisasikan progress dan skill ku.
 </p>
 
-<h2 align="center" style="color:#5BC0EB;">Languages & Tools</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Languages%20%26%20Tools-5BC0EB?style=for-the-badge&logo=codecov&logoColor=white" alt="Languages & Tools" />
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -36,12 +41,31 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-<h2 align="center" style="color:#FFD166;">Streak & Stats</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Streak%20%26%20Stats-FFD166?style=for-the-badge&logo=github&logoColor=white" alt="Streak & Stats" />
+</div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeRei067&theme=tokyonight" alt="GitHub Profile Summary" />
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeRei067&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophy" />
 </div>
 
-<div align="center" style="margin-top:18px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6a11cb,100:2575fc" alt="Cosmic Footer" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeRei067&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeRei067&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-top:12px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeRei067&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center" style="margin-top:12px;">
+  <img src="https://img.shields.io/github/commit-activity/m/CodeRei067/Orpheus-Symphony?style=for-the-badge&color=7F7FD5&logo=github&logoColor=white" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/contributors/CodeRei067/Orpheus-Symphony?style=for-the-badge&color=5BC0EB&logo=github&logoColor=white" alt="Contributors" />
+  <img src="https://img.shields.io/github/languages/top/CodeRei067/Orpheus-Symphony?style=for-the-badge&color=FFD166&logo=github&logoColor=white" alt="Top Language" />
+</div>
+
+<div align="center">
+  <img src="assets/generated/footer.svg" alt="Footer" width="100%"/>
 </div>
