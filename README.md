@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,50:7873f5,100:4ade80&height=200&section=header)
-
 <p align="center">
   <img src="assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%"/>
 </p>
