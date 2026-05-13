@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,20:ff7f00,40:ffff00,60:00ff00,80:00ffff,100:0000ff&height=200&section=header&text=CodeRei067&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,50:7873f5,100:4ade80&height=200&section=header&text=Who's Rei&fontColor=ffffff)
 
 <p align="center">
   <img src="assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%"/>
