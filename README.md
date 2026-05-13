@@ -9,7 +9,7 @@
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>About Me<a href="https://github.com/Hunterdii">
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
 </span></h2>
-<p align="center" style="font-size:16px; line-height:1.8; max-width:720px;">
+<p align="center" style="font-size:16px; max-width:720px;">
   Who's Rei AKA Reza here! Siswa RPL yang antusias pada web developer, data science, dan machine learning. Orpheus Symphony Profile ini memvisualisasikan progress dan skill ku.
 </p>
 
