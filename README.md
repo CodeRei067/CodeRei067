@@ -39,7 +39,7 @@
 <h2 align="center" style="color:#FFD166;">Streak & Stats</h2>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeRei067&theme=tokyonight" alt="GitHub Profile Summary" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeRei067&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeRei067&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophy" />
 </div>
 
 <div align="center" style="margin-top:18px;">
