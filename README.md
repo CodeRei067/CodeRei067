@@ -1,17 +1,39 @@
-<img src="https://media1.tenor.com/m/WhA35CQ7UBUAAAAd/persona-3-persona-3-reload.gif" width="50%">
-
 <p align="center">
   <img src="assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%"/>
 </p>
+
+<div align="center">
+    <img src="https://media1.tenor.com/m/WhA35CQ7UBUAAAAd/persona-3-persona-3-reload.gif" width="50%">
+</div>
+
+<div align="center"><h2><a href="https://github.com/Hunterdii">
+    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px">Who's Rei Heree!<a href="https://github.com/Hunterdii">
+    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></h2>
+</div>
+
+<div align="center">
+   <p>Who's Rei AKA Reza, 
+   dengan README atau Orpheus Symphony ini.. aku akan memvisualisasikan progress maupun aktifitasku!</p>
+</div>
 
 <h2 align="center"><a href="https://github.com/Hunterdii">
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>About Me<a href="https://github.com/Hunterdii"><img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
 </h2>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<p align="center" style="font-size:16px; max-width:720px;">
-  Who's Rei AKA Reza here! Siswa RPL yang antusias pada web developer, data science, dan machine learning. Orpheus Symphony Profile ini memvisualisasikan progress dan skill ku.
-</p>
+<table>
+<tr>
+<td style="vertical-align: top;">
+<ul>
+<li>💻 <strong>Web Developer:</strong> Sedang mengembangkan keterampilan dalam HTML, CSS, JavaScript, PHP, dan framework seperti Laravel untuk membangun aplikasi web yang responsif dan dinamis.</li>
+<li>📊 <strong>Data Science:</strong> Belajar menganalisis data menggunakan Python dengan library seperti NumPy dan Pandas, serta visualisasi di Jupyter Notebook.</li>
+<li>🤖 <strong>Machine Learning:</strong> Mengeksplorasi model ML dengan Scikit-Learn untuk proyek prediksi dan klasifikasi.</li>
+</ul>
+</td>
+<td style="text-align: center;">
+<img src="https://media1.tenor.com/m/_wPHMTu2klsAAAAd/typing-makoto-yuki.gif" width="50%">
+</td>
+</tr>
+</table>
 
 <h2 align="center"><a href="https://github.com/Hunterdii">
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>Languages & Tools<a href="https://github.com/Hunterdii"><img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
