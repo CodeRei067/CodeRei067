@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="6489748516040822805" data-share-method="host" data-aspect-ratio="3.95238" data-width="100%"><a href="https://tenor.com/view/persona-3-persona-3-reload-makoto-yuki-cut-in-gif-6489748516040822805">Persona 3 Persona 3 Reload GIF</a>from <a href="https://tenor.com/search/persona+3-gifs">Persona 3 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media1.tenor.com/m/WhA35CQ7UBUAAAAd/persona-3-persona-3-reload.gif" width="100%">
 
 <p align="center">
   <img src="assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%"/>
