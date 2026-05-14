@@ -6,9 +6,9 @@
     <img src="https://media1.tenor.com/m/WhA35CQ7UBUAAAAd/persona-3-persona-3-reload.gif" width="50%">
 </div>
 
-<div align="center"><h2><a href="https://github.com/Hunterdii">
-    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px">Who's Rei Heree!<a href="https://github.com/Hunterdii">
-    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></h2>
+<div align="center"><a href="https://github.com/Hunterdii">
+    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"><h2>Who's Rei Heree!</h2><a href="https://github.com/Hunterdii">
+    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px">
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@
 </ul>
 </td>
 <td style="text-align: center;">
-<img src="https://media1.tenor.com/m/_wPHMTu2klsAAAAd/typing-makoto-yuki.gif" width="50%">
+<img src="https://media1.tenor.com/m/_wPHMTu2klsAAAAd/typing-makoto-yuki.gif" width="100%">
 </td>
 </tr>
 </table>
