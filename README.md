@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Composer-88563B?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/GitHub-4479A1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-4479A1?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 <h2 align="center"<a href="https://github.com/Hunterdii">
