@@ -52,8 +52,6 @@
   <img src="https://count.getloli.com/@Hunterdii?name=Hunterdii&theme=green&darkmode=1"/>
 </div>
 
-<div align='center': style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="59" height="59" /></div>
-
 <div align="center">
   <img src="assets/generated/footer.svg" alt="Footer" width="100%"/>
 </div>
