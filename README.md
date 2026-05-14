@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/WhA35CQ7UBUAAAAd/persona-3-persona-3-reload.gif" width="100%">
+<img src="https://media1.tenor.com/m/WhA35CQ7UBUAAAAd/persona-3-persona-3-reload.gif" width="50%">
 
 <p align="center">
   <img src="assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%"/>
