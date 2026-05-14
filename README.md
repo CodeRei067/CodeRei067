@@ -1,3 +1,6 @@
+<img src="https://tenor.com/id/view/persona-3-persona-3-reload-makoto-yuki-cut-in-gif-6489748516040822805
+" width="100%">
+
 <p align="center">
   <img src="assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%"/>
 </p>
