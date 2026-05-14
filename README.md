@@ -2,20 +2,20 @@
   <img src="assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%"/>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <h2 align="center"><a href="https://github.com/Hunterdii">
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>About Me<a href="https://github.com/Hunterdii"><img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
 </h2>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <p align="center" style="font-size:16px; max-width:720px;">
   Who's Rei AKA Reza here! Siswa RPL yang antusias pada web developer, data science, dan machine learning. Orpheus Symphony Profile ini memvisualisasikan progress dan skill ku.
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <h2 align="center"><a href="https://github.com/Hunterdii">
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>Languages & Tools<a href="https://github.com/Hunterdii"><img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
 </h2>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -39,12 +39,11 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <h2 align="center"<a href="https://github.com/Hunterdii">
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>Streak & Stats<a href="https://github.com/Hunterdii"><img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
-
 </h2>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeRei067&theme=nightowl" alt="GitHub Profile Summary" />
   <img src="https://streak-stats.demolab.com?user=CodeRei067&theme=nightowl&hide_border=true" alt="Streak Stats" />
