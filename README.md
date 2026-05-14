@@ -9,6 +9,7 @@
 <h2 align="center"><a href="https://github.com/Hunterdii">
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>Who's Rei Here!!<a href="https://github.com/Hunterdii"><img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
 </h2>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
    <p>Who's Rei AKA Reza, 
