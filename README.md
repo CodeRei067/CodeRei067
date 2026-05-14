@@ -34,20 +34,23 @@
 <div align="center" style="margin-top:12px;">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Composer-88563B?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/GitHub-4479A1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Git-4479A1?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 <h2 align="center"<a href="https://github.com/Hunterdii">
-    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>Streak & Stats<a href="https://github.com/Hunterdii"><img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
+    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>Stats<a href="https://github.com/Hunterdii"><img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
 </h2>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeRei067&theme=nightowl" alt="GitHub Profile Summary" />
-  <img src="https://streak-stats.demolab.com?user=CodeRei067&theme=nightowl&hide_border=true" alt="Streak Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeRei067&theme=nightowl" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeRei067&theme=nightowl" alt="GitHub Profile Summary" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeRei067&theme=nightowl" alt="Activity Graph" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=CodeRei067&theme=nightowl&hide_border=true" alt="Streak Stats" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://count.getloli.com/@Hunterdii?name=Hunterdii&theme=green&darkmode=1"/>
 </div>
 
