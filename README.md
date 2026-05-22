@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Git-FF5722?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
 </div>
-<h2 align="center"<a href="https://github.com/Hunterdii">
+<h2 align="center"><a href="https://github.com/Hunterdii">
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>Stats<a href="https://github.com/Hunterdii"><img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
 </h2>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
