@@ -32,7 +32,7 @@ generate-snake:
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: USERNAME_KAMU
+          github_user_name: CodeRei067
           outputs: |
             dist/github-contribution-grid-snake.svg
 
