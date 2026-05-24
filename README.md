@@ -64,6 +64,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeRei067&theme=nightowl" alt="Activity Graph" width="100%" />
   <img src="https://streak-stats.demolab.com?user=CodeRei067&theme=nightowl&hide_border=true" alt="Streak Stats" width="100%" />
 </div>
+
+<div align="center">
+  <img src="https://github.com/CodeRei067/CodeRei067/blob/output/github-contribution-grid-snake.svg"/>
+</div>
+
 <div align="center">
   <img src="https://count.getloli.com/@Hunterdii?name=Hunterdii&theme=green&darkmode=1"/>
 </div>
