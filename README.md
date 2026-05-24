@@ -66,7 +66,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/CodeRei067/CodeRei067/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/CodeRei067/CodeRei067/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 <div align="center">
