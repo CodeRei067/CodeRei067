@@ -26,7 +26,6 @@ jobs:
           add: "commit-strike.txt"
   generate-snake:
     runs-on: ubuntu-latest
-
     steps:
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
