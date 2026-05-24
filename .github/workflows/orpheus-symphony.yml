@@ -24,22 +24,21 @@ jobs:
         with:
           message: "🔥 Daily commit strike"
           add: "commit-strike.txt"
+  generate-snake:
+    runs-on: ubuntu-latest
 
- generate-snake:
-     runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: CodeRei067
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-     steps:
-       - name: Generate snake animation
-         uses: Platane/snk/svg-only@v3
-         with:
-           github_user_name: CodeRei067
-           outputs: |
-             dist/github-contribution-grid-snake.svg
-
-       - name: Push snake animation
-         uses: crazy-max/ghaction-github-pages@v4
-         with:
+      - name: Push snake animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
           target_branch: output
           build_dir: dist
-         env:
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
