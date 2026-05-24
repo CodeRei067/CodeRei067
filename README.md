@@ -66,10 +66,6 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CodeRei067/CodeRei067/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
-
-<div align="center">
   <img src="https://count.getloli.com/@Hunterdii?name=Hunterdii&theme=green&darkmode=1"/>
 </div>
 <div align="center">
