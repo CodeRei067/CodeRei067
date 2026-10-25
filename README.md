@@ -2,7 +2,7 @@
   <img src="assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%"/>
 </p>
 <div align="center">
-    <img src="https://media1.tenor.com/m/WhA35CQ7UBUAAAAd/persona-3-persona-3-reload.gif" width="50%">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnlsMGR3aDVwdmN5c3VlN3o2cGt5eWsxazF1cjVrdzR2MmxkYWZqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b7Fq4pVZIsrra/giphy.gif" width="50%">
 </div>
 <h2 align="center"><a href="https://github.com/Hunterdii">
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>Who's Rei Here!!<a href="https://github.com/Hunterdii"><img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
