@@ -5,11 +5,11 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnlsMGR3aDVwdmN5c3VlN3o2cGt5eWsxazF1cjVrdzR2MmxkYWZqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b7Fq4pVZIsrra/giphy.gif" width="50%">
 </div>
 <h2 align="center"><a href="https://github.com/Hunterdii">
-    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>Who's Rei Here!!<a href="https://github.com/Hunterdii"><img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
+    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>Rei_Raikkonen Here!!<a href="https://github.com/Hunterdii"><img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
 </h2>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
-   <p>Who's Rei AKA Reza, 
+   <p>Rei AKA Reza, 
    dengan README atau Orpheus Symphony ini.. aku akan memvisualisasikan progress maupun aktifitasku!</p>
 </div>
 <h2 align="center"><a href="https://github.com/Hunterdii">
@@ -20,13 +20,13 @@
 <tr>
 <td style="vertical-align: top;">
 <ul>
-<li>💻 <strong>Web Developer:</strong> Sedang mengembangkan keterampilan dalam HTML, CSS, JavaScript, PHP, dan framework seperti Laravel untuk membangun aplikasi web yang responsif dan dinamis.</li>
-<li>📊 <strong>Data Science:</strong> Belajar menganalisis data menggunakan Python dengan library seperti NumPy dan Pandas, serta visualisasi di Jupyter Notebook.</li>
-<li>🤖 <strong>Machine Learning:</strong> Mengeksplorasi model ML dengan Scikit-Learn untuk proyek prediksi dan klasifikasi.</li>
+<li> <strong>Web Developer:</strong> Sedang mengembangkan keterampilan dalam HTML, CSS, JavaScript, PHP, dan framework seperti Laravel untuk membangun aplikasi web yang responsif dan dinamis.</li>
+<li> <strong>Data Science:</strong> Belajar menganalisis data menggunakan Python dengan library seperti NumPy dan Pandas, serta visualisasi di Jupyter Notebook.</li>
+<li> <strong>Machine Learning:</strong> Mengeksplorasi model ML dengan Scikit-Learn untuk proyek prediksi dan klasifikasi.</li>
 </ul>
 </td>
 <td style="text-align: center;">
-<img src="https://media1.tenor.com/m/_wPHMTu2klsAAAAd/typing-makoto-yuki.gif" width="100%">
+<img src="https://tenor.com/bJNooy06Ug9.gif" width="100%">
 </td>
 </tr>
 </table>
