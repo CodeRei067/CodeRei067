@@ -26,7 +26,7 @@
 </ul>
 </td>
 <td style="text-align: center;">
-<img src="https://tenor.com/bJNooy06Ug9.gif" width="100%">
+<img src="https://tenor.com/view/attack-on-titan-aot-mikasa-mikasa-ackerman-goth-mikasa-gif-1321662779682718297" width="100%">
 </td>
 </tr>
 </table>
